@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "schema": {
+    "source_repo": "GitHub owner/repo the file was copied from, e.g. dust2ash7/raven-flock-assets",
+    "source_commit": "full 40-char commit sha of source_repo the file was copied at",
+    "path": "path of the file inside source_repo",
+    "dest": "path under public/ in this repo; served at /<dest> (e.g. models/keeper.glb)",
+    "sha256": "hex sha256 of the copied file",
+    "bytes": "file size in bytes"
+  },
+  "entries": []
+}
